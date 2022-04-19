@@ -1,1 +1,4 @@
-console.log(' Hello Azure '+ process.env.VALUE_DOT_ENV);
+const axios = require('axios');
+var inicial = 100;
+
+console.log('Hello World ' +  inicial);
