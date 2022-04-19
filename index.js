@@ -1,0 +1,1 @@
+console.log(' Hello Azure '+ process.env.VALUE_DOT_ENV);
